@@ -1,4 +1,4 @@
-Gamics - Create Manage Matches
+Ozmic Studios - Create Manage Matches
 
 
 
@@ -15,7 +15,7 @@ Follow us on :
 <ion-icon name="logo-pinterest"></ion-icon>
 <ion-icon name="logo-linkedin"></ion-icon>
 
-Gamics
+Ozmic Studios
 
 Home
 Live
@@ -243,9 +243,9 @@ Subscribe
 
 #---------- FOOTER ----------#
 
-Gamics
+Ozmic Studios
 
-Gamics marketplace the relase etras thats sheets continig passag.
+Ozmic Studios marketplace the relase etras thats sheets continig passag.
 
 <ion-icon name="location"></ion-icon>
 Address : PO Box W75 Street lan West new queens
@@ -286,7 +286,7 @@ placeholder = Enter your email
 aria-label = submit
 <ion-icon name="rocket"></ion-icon>
 
-&copy; 2022 Gamics. All Right Reserved by codewithsadee
+&copy; 2022 Ozmic Studios. All Right Reserved by codewithsadee
 
 
 
